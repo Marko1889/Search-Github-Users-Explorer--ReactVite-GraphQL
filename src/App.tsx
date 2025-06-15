@@ -11,7 +11,7 @@ const App = () => {
         <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight bg-gradient-to-r from-blue-600 via-purple-500 to-pink-500 bg-clip-text text-transparent mb-4 drop-shadow-lg">
           Search GitHub User Explorer
         </h1>
-        <p className="max-w-2xl text-lg sm:text-xl text-muted-foreground mb-2">
+        <p className="max-w-2xl md:text-md sm:text-xl text-muted-foreground mb-4">
           Effortlessly search and visualize GitHub user profiles, repositories,
           and language stats with interactive charts.
           <br className="hidden sm:block" />
