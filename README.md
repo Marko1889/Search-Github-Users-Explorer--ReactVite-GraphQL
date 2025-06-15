@@ -125,6 +125,12 @@ The app will be available at `http://localhost:5173` (or as shown in your termin
 
 - `VITE_GITHUB_TOKEN`: Your GitHub personal access token (required for API access)
 
+**Note:** Make sure you enable (tick) at least these two fields while generating your GitHub API Token (Classic) for deploying on Netlify or Vercel or other server.
+
+read:user (for reading user profile info)
+
+public_repo (for reading public repository info)
+
 ---
 
 ## Usage Guide
