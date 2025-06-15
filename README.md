@@ -5,7 +5,7 @@
 
 A modern, feature-rich web application to search and explore GitHub users using the GitHub GraphQL API. Built with React, Vite, TypeScript, Tailwind CSS, Apollo Client, and shadcn/ui, this project demonstrates advanced state management, data visualization, and a clean, responsive UI.
 
-**Live Online:**
+**Live Online:** https://search-github-users-explorer.netlify.app/
 
 ---
 
